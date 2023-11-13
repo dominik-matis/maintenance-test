@@ -1,1 +1,1 @@
-this should be content of the file in second commit
+new content from vue app
