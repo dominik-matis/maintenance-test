@@ -1,1 +1,1 @@
-{"preMaintenancePeriod":"PT0H5M0S","preMaintenanceMessage":"","startTime":"","endTime":"","message":"","isMessageDismissable":false}
+{"preMaintenancePeriod":"PT0H0M0S","preMaintenanceMessage":"","startTime":"","endTime":"","message":"","isMessageDismissable":false}
